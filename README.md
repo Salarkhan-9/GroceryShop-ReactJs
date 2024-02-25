@@ -1,4 +1,5 @@
-# Project In Process
+# Grocery Shop App
+Full Responsive 
 
 ``` bash
 cd GroceryShop ReactJs
