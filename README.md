@@ -3,7 +3,7 @@ Full Responsive GorceryShop
 
 # FrameWorks
 - ReactJs
-- 
+- Tailwind CSS
 
 ## Installation 
 ``` bash
