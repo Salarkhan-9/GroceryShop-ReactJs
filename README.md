@@ -8,7 +8,7 @@ Full Responsive GorceryShop
 ## Installation 
 ``` bash
 cd GroceryShop ReactJs
-npm i
+npm install
 npm run dev
 
 ```
